@@ -3,28 +3,26 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6282221792667', 'TioXd', true]
+  ['6281327334801', 'HakikiXD', true]
 // [owner bukan bot!]
 ] // paste nomor di sini
-global.mods = ['6282221792667'] // bantuan?
-global.prems = ['6282221792667'] // user premium limit tanpa batas 
+global.mods = ['6281327334801'] // bantuan?
+global.prems = ['6281327334801'] // user premium limit tanpa batas 
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrttm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
-  violetics: 'https://violetics.pw',
   males: 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'NezukoTachibana281207',
-  'https://violetics.pw': '0a97-8713-11dc'
+  'https://api.xteam.xyz': 'NezukoTachibana281207'
 }
 
 // Wm untuk stiker dan autobio
-global.tio = 'TioXd'
-global.packname = '© BOTCAHX'
-global.author = 'TioXd'
+global.tio = 'HakikiXD'
+global.packname = 'HakikiBots'
+global.author = 'HakikiXD'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
 
